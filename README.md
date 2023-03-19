@@ -29,7 +29,8 @@ char2=temp
 print("Swapped values are:",char1,char2)
 ```
 ## OUTPUT
-![Screenshot (51)](https://user-images.githubusercontent.com/119518996/226164848-49dec62f-9ff7-4b5c-815b-4f5c64393871.png)
+![Screenshot (53)](https://user-images.githubusercontent.com/119518996/226164986-d8bc8c36-9ffb-427c-8095-1c2425aa97dc.png)
+
 
 
 
